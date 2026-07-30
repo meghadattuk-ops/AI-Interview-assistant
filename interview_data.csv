@@ -1,0 +1,5 @@
+Question,Candidate_Answer,Model_Answer,Score
+What is Python?,Python is a programming language used for development and AI.,Python is a high level interpreted programming language used in software development and machine learning.,85
+Explain Machine Learning,Machine learning allows computers to learn from data.,Machine learning is a branch of AI where algorithms learn patterns from data.,88
+What is SQL?,SQL is used to store and retrieve data from databases.,SQL is a language used to manage relational databases.,78
+Explain OOP concepts,OOP contains classes and objects.,"Object oriented programming uses classes, objects, inheritance and polymorphism.",82
